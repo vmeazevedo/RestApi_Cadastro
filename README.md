@@ -1,5 +1,6 @@
 # RestApi_Cadastro
-Estudo de desenvolvimento de uma REST API com documentação elaborada via Swagger.
+Estudo de desenvolvimento de uma REST API com documentação elaborada via Swagger desenvolvido em linguagem JAVA utilizando o framework Spring Boot.
+
 
 ### Documentação Swagger:
 
